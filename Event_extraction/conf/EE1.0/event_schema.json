@@ -1,0 +1,7 @@
+{"role_list": [{"role": "攻击事件发起者"}, {"role": "攻击事件承受者"}, {"role": "攻击事件使用器械"}, {"role": "攻击事件时间"}, {"role": "攻击事件地点"}], "event_type": "攻击事件", "id": "66fd6541f6e81ecbc9df69ac377d8d8f"}
+{"role_list": [{"role": "侦查事件发起者"}, {"role": "侦查事件承受者"}, {"role": "侦查事件使用器械"}, {"role": "侦查事件时间"}, {"role": "侦查事件地点"}], "event_type": "侦查事件", "id": "ce7923d3e82610c3f1692f98193426d6"}
+{"role_list": [{"role": "保障事件发起者"}, {"role": "保障事件承受者"}, {"role": "保障事件使用器械"}, {"role": "保障事件时间"}, {"role": "保障事件地点"}], "event_type": "保障事件", "id": "42774ed6cc845ce2bbcbce242deb8994"}
+{"role_list": [{"role": "封锁事件发起者"}, {"role": "封锁事件使用器械"}, {"role": "封锁事件时间"}, {"role": "封锁事件地点"}], "event_type": "封锁事件", "id": "83c21d96a46a78c2e3620fd75668675d"}
+{"role_list": [{"role": "部署事件发起者"}, {"role": "部署事件承受者"}, {"role": "部署事件使用器械"}, {"role": "部署事件时间"}, {"role": "部署事件地点"}], "event_type": "部署事件", "id": "90faa2088d198f670edbb6dc65766877"}
+{"role_list": [{"role": "防守事件发起者"}, {"role": "防守事件承受者"}, {"role": "防守事件使用器械"}, {"role": "防守事件时间"}, {"role": "防守事件地点"}], "event_type": "防守事件", "id": "2f2acf626f0e06df3f0491ff37db2b3e"}
+{"role_list": [{"role": "机动事件发起者"}, {"role": "机动事件使用器械"}, {"role": "机动事件时间"}, {"role": "机动事件地点"}], "event_type": "机动事件", "id": "2fbbd5f1cebf47c246249880d283bcbe"}
